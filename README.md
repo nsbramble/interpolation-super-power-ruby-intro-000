@@ -1,4 +1,4 @@
-ar# Interpolation Super Power
+# Interpolation Super Power
 
 ## Objectives
 
