@@ -1,13 +1,7 @@
 # Write your #display_rainbow method here
 def 
   display_rainbow(color)
-puts "R: #{color0}"
-puts "O: #{color1}"
-puts "Y: #{color2}"
-puts "G: #{color3}"
-puts "B: #{color4}"
-puts "I: #{color5}"
-puts "V: #{color6}"
+puts "R: #{color[0]}", "O: #{color[1]}", "Y: #{color[2]}", "G: #{color[3]}", "B: #{color[4]}", "I: #{color[5]}", uts "V: #{color6}"
 end  
 
 display_rainbow("red", "orange", "yellow", "green", "blue", "indigo", "violet")
